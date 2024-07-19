@@ -24,4 +24,4 @@ I write clean and best solutions for the tasks set.
 *   MySQL, PostgreSQL, MongoDB, Redis, Liquibase
 *   Spring Boot, Spring Test, Spring Data Jpa, and so on...
 *   Docker, TestContainers, Kafka
-*   GitHub
+*   GitHub, Github Actions (CI/CD)
