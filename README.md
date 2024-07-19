@@ -3,12 +3,7 @@
 Java Backend Developer.
 
 <p align='center'>
-   ![Anurag's GitHub stats]()
-   [![GitHub Streak]()](https://git.io/streak-stats)
-</p>
-
-<p align='center'>
-   <a href="https://github-readme-stats.vercel.app/api?username=Starleken&show_icons=true&theme=transparent"><img
+   <a href="https://github-readme-stats.vercel.app/api?username=Starleken&show_icons=true&theme=dark&background=000000""><img
            height=150
            src="https://github-readme-stats.vercel.app/api?username=Starleken&show_icons=true&theme=transparent"/></a>
    <a href="http://github-readme-streak-stats.herokuapp.com?user=Starleken&theme=dark&background=000000"><img height=150
