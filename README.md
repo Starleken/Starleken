@@ -1,6 +1,7 @@
-## Hi I'm Maxim 👋
+## Hi, I'm Maxim 👋
 
-Java Backend Developer.
+Java Backend Developer with 1 year of practical experience. I have experience in developing microservices and configuring interaction between them. 
+I write clean and best solutions for the tasks set.
 
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=Starleken&show_icons=true&theme=dark&background=000000""><img
@@ -20,7 +21,7 @@ Java Backend Developer.
 
 ## 🛠 Technical Stack
 *   Java
-*   MySQL, PostgreSQL, MongoDB, Liquibase
+*   MySQL, PostgreSQL, MongoDB, Redis, Liquibase
 *   Spring Boot, Spring Test, Spring Data Jpa, and so on...
-*   Docker, TestContainers
+*   Docker, TestContainers, Kafka
 *   GitHub
