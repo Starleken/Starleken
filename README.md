@@ -1,6 +1,11 @@
 ## Hi I'm Maxim 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Starleken&show_icons=true&theme=transparent)
+Java Backend Developer.
+
+<p align='center'>
+   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Starleken&show_icons=true&theme=transparent)
+   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Starleken&theme=dark&background=000000)](https://git.io/streak-stats)
+</p>
 
 <p align='center'>
    <a href="https://t.me/Starleken">
