@@ -5,7 +5,7 @@ Java Backend Developer.
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=Starleken&show_icons=true&theme=dark&background=000000""><img
            height=150
-           src="https://github-readme-stats.vercel.app/api?username=Starleken&show_icons=true&theme=transparent"/></a>
+           src="https://github-readme-stats.vercel.app/api?username=Starleken&show_icons=true&theme=dark&background=000000""/></a>
    <a href="http://github-readme-streak-stats.herokuapp.com?user=Starleken&theme=dark&background=000000"><img height=150
                                                                   src="http://github-readme-streak-stats.herokuapp.com?user=Starleken&theme=dark&background=000000"/></a>
 </p>
