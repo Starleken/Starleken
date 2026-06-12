@@ -1,6 +1,6 @@
 ## Hi, I'm Maxim 👋
 
-Java Backend Developer with 1 year of practical experience. I have experience in developing microservices and configuring interaction between them. 
+Java Backend Developer with 3 year of practical experience. I have experience in developing microservices and configuring interaction between them. 
 I write clean and best solutions for the tasks set.
 
 <p align='center'>
@@ -23,5 +23,5 @@ I write clean and best solutions for the tasks set.
 *   Java
 *   MySQL, PostgreSQL, MongoDB, Redis, Liquibase
 *   Spring Boot, Spring Test, Spring Data Jpa, and so on...
-*   Docker, TestContainers, Kafka
+*   Docker, TestContainers, Kafka, PlayWright
 *   GitHub, Github Actions (CI/CD)
