@@ -20,8 +20,8 @@ I write clean and best solutions for the tasks set.
 </p>
 
 ## 🛠 Technical Stack
-*   Java
-*   MySQL, PostgreSQL, MongoDB, Redis, Liquibase
+*   Java, React
+*   MySQL, PostgreSQL, MongoDB, Redis, Liquibase, FlyWay
 *   Spring Boot, Spring Test, Spring Data Jpa, and so on...
-*   Docker, TestContainers, Kafka, PlayWright
+*   Docker, K8S, TestContainers, Kafka, PlayWright
 *   GitHub, Github Actions (CI/CD)
