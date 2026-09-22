@@ -20,8 +20,18 @@ I write clean and best solutions for the tasks set.
 </p>
 
 ## 🛠 Technical Stack
-*   Java, React
-*   MySQL, PostgreSQL, MongoDB, Redis, Liquibase, FlyWay
-*   Spring Boot, Spring Test, Spring Data Jpa, and so on...
-*   Docker, K8S, TestContainers, Kafka, PlayWright
-*   GitHub, Github Actions (CI/CD)
+|:---------------------:|:-------------------------------------------------------------:|
+| Languages               | Java, SQL                                                   |
+| Frameworks              | Spring Boot, React                                          |
+| Build tools             | Maven                                                       |
+| Java DB frameworks      | Spring Data, Hibernate, Spring JDBC Template, Spring Cloud  |
+| Testing                 | JUnit, Mockito, Testcontainers, Wiremock, PlayWright        |
+| Security                | Spring Security, JWT                                        |
+| Databases               | PostgreSQL, Redis, MongoDB                                  |
+| DB migration tools      | Flyway, Liquibase                                           |
+| Message brokers         | Kafka, Amazon SQS                                           |
+| VCS                     | Github                                                      |
+| Additional technologies | Swagger 2.0, OpenAPI, Mapstruct                             |
+| Metrics / logging       | New Relic                                                   |
+| Ops stuff               | Docker, Github actions, AWS, API Gateway, S3, K8s.          |
+| Methodologies           | Scrum, Kanban                                               |
