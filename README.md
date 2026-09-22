@@ -20,7 +20,8 @@ I write clean and best solutions for the tasks set.
 </p>
 
 ## 🛠 Technical Stack
-|:---------------------:|:-------------------------------------------------------------:|
+| Category | Technologies |
+| :--- | :--- |
 | Languages               | Java, SQL                                                   |
 | Frameworks              | Spring Boot, React                                          |
 | Build tools             | Maven                                                       |
