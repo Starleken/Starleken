@@ -16,7 +16,7 @@ I write clean and best solutions for the tasks set.
        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
    </a>
 <p align='center'>
-   📫 How to reach me: <a href='mailto:starleken@mail.ru'>starleken@mail.ru</a>
+   📫 How to reach me: <a href='mailto:maximzhuravlevich@gmail.com'>maximzhuravlevich@gmail.com</a>
 </p>
 
 ## 🛠 Technical Stack
